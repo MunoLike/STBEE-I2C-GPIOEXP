@@ -1,0 +1,5 @@
+main.c:69:5:_write	5
+main.c:80:9:Fast_CRC_Cal8Bits	2
+main.c:169:6:SystemClock_Config	3
+main.c:116:5:main	2
+main.c:283:6:Error_Handler	1
